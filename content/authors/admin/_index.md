@@ -1,74 +1,44 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Ruilong Zhuang
+role: Graduated Student in Operations Research
+bio: An Aspiring Data Scientist
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ruilong96
+  - icon_pack: fas
+    icon: linkedin
+    link: https://www.linkedin.com/in/ruilongzhuang/
+  - icon_pack: far
+    icon: table
+    link: https://public.tableau.com/profile/ruilong.zhuang#!/
+organizations:
+  - name: Stanford University
+    url: ""
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: MSc in Operations Research
+      institution: Columbia University
+      year: 2021
+    - course: BA in Mathematics and Computer Science
+      institution: Whitman College
+      year: 2020
+email: rz2524@columbia.edu
+superuser: true
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
 ---
+I am a first year graduate student studying Operations Research at Columbia University, and currently pursuing a career in data science field.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Over the past 3 years, I have been actively working on numerious projects, delievering data-driven solutions in research settings. I've always seen myself at the intersection of technology and business, with an aspiration to leverage my analytical skills and business acumen to assist in data-driven decision making. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I use the latest data science techniques to turn vast quantities of data into valuable insights that help decision-makers maximize impact.
